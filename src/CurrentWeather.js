@@ -1,6 +1,6 @@
 import React from "react";
 import Date from "./Date";
-import "./style.css";
+
 export default function CurrentWeather() {
   return (
     <div className="CurrentWeather">
